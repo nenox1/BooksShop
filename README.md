@@ -5,3 +5,6 @@ Possibility to add book, delete book, edit book, also table genre add, delete mo
 
 ![image](https://github.com/nenox1/BooksShop-with-GUI-QT-/assets/42572782/914314c6-21b9-405d-9335-365cb6b13859)
 
+
+
+
